@@ -8,10 +8,10 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Hello"
+  title: "Hey!"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'Welcome to our website. <em>Monir Works</em> is dedicated for every people who is stuck in the dark,we are here to free you from dark and bring you dark.'
 widget2:
   title: "Why use hhjhj?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
