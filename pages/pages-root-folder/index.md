@@ -13,7 +13,7 @@ widget1:
   image: widget-1-302x182.jpg
   text: 'Welcome to our website. <em>Monir Works</em> is dedicated for every people who is stuck in the dark,we are here to free you from dark and bring you to light.'
 widget2:
-  title: "Why use hhjhj?"
+  title: "Is this Good?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
   text: '<em>Monir Works</em> is for you.<br/>1. Your online church<br/>2. Education.<br/>3. Hobbies.<br/>4. Comparing other religions and personal opinions.<br/>5. Political Comments...'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
