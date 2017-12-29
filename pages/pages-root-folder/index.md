@@ -16,7 +16,7 @@ widget2:
   title: "Is this Good?"
   url: 'http://tourismgetlost.github.io/feeling-responsive/info/'
   text: '<em>Monir Works</em> is for you.<br/>1. Your online church<br/>2. Education.<br/>3. Hobbies.<br/>4. Comparing other religions and personal opinions.<br/>5. Political Comments...'
-  <img src="http://tourismgetlost.github.io/feeling-responsive/images/john-price-27868.jpg" width="302" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="http://tourismgetlost.github.io/feeling-responsive/images/john-price-27868.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Download Theme"
   url: 'https://github.com/Phlow/feeling-responsive'
