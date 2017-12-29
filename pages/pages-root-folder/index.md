@@ -11,7 +11,7 @@ widget1:
   title: "Hey!"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
-  text: 'Welcome to our website. <em>Monir Works</em> is dedicated for every people who is stuck in the dark,we are here to free you from dark and bring you dark.'
+  text: 'Welcome to our website. <em>Monir Works</em> is dedicated for every people who is stuck in the dark,we are here to free you from dark and bring you to light.'
 widget2:
   title: "Why use hhjhj?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
