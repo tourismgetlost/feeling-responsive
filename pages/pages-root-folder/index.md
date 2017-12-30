@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: cross.jpg
 widget1:
   title: "Hey!"
   url: 'http://tourismgetlost.github.io/feeling-responsive/blog/'
