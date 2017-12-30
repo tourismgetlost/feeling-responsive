@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Monir Works'
+title: 'Welcome To Light'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'A Flexible Theme for Jekyll'
@@ -42,7 +42,7 @@ urlimg: 'https://tourismgetlost.github.io/feeling-responsive/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "coollogo.png"
+logo: "newlogo.png"
 
 # Gems
 gems:
